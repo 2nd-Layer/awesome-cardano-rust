@@ -3,11 +3,11 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
+# Awesome Cardano Rust [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/2nd-Layer/awesome-cardano-rust/actions/workflows/lint.yaml/badge.svg)](https://github.com/2nd-Layer/awesome-cardano-rust/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A curated list of Cardano (mostly) Rust code and resources.
 
 <!-- image -->
 
@@ -17,7 +17,7 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
+Cardano intends to be a Social and Financial Operating System. Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency.
 
 </div>
 
@@ -25,19 +25,42 @@ A one line description of the product or tool. See [awesome-firebase](https://gi
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Companies & Teams](#section-1)
+- [Crates](#crates)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Companies & Teams
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [dcSpark](https://dcspark.io/)
 
-## Section 1
+## Tools
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+### SPO Tools
+- [CNCLI](https://github.com/AndrewWestberg/cncli) - community-based cardano-node CLI tool
+
+### Explorer Tools
+- [Oura](https://github.com/txpipe/oura) - pipeline that connects to the tip of a Cardano node
+
+## Crates
+
+### Cardano Networking Protocols
+- [Cardano Rust Ouroboros Network](https://github.com/2nd-Layer/rust-cardano-ouroboros-network) - implementation of networking layer for the Ouroboros blockchain protocol.
+- [Pallas](https://github.com/txpipe/pallas) - building blocks for the Cardano blockchain ecosystem.
+  - pallas-machines - framework for implementing state machines for Ouroboros network mini-protocols
+  - pallas-multiplexer - multithreaded Ouroboros multiplexer implementation using mpsc channels
+  - pallas-handshake - Ouroboros network handshake mini-protocol
+  - pallas-blockfetch - Ouroboros network blockfetch mini-protocol
+  - pallas-chainsync - Ouroboros network chainsync mini-protocol
+  - pallas-localstate - Ouroboros network local state query mini-protocol
+  - pallas-txsubmission - Ouroboros network txsubmission mini-protocol
+
+### Cardano Consensus
+
+### Cardano Ledger
+- [Pallas](https://github.com/txpipe/pallas) - building blocks for the Cardano blockchain ecosystem.
+  - pallas-alonzo - ledger primitives and cbor codec for the Alonzo era
 
 <!-- END CONTENT -->
 
@@ -53,4 +76,4 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+[Thanks goes to these contributors](https://github.com/2nd-Layer/awesome-cardano-rust/graphs/contributors)!
