@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-<!--lint ignore no-dead-urls-->
+<!--lint ignore no-dead-urls -->
 # Awesome Cardano Rust [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/2nd-Layer/awesome-cardano-rust/actions/workflows/lint.yaml/badge.svg)](https://github.com/2nd-Layer/awesome-cardano-rust/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
@@ -60,6 +60,7 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 ### Cardano Consensus
 
 ### Cardano Ledger
+<!--lint ignore double-link -->
 - [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
   - pallas-alonzo - ledger primitives and cbor codec for the Alonzo era
 - [cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - Library for serialization & deserialization of data structures used in Cardano's Haskell implementation.
