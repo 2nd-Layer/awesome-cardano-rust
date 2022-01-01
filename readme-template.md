@@ -39,16 +39,16 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 ## Tools
 
 ### SPO Tools
-- [CNCLI](https://github.com/AndrewWestberg/cncli) - community-based cardano-node CLI tool
+- [CNCLI](https://github.com/AndrewWestberg/cncli) - Community-based cardano-node CLI tool.
 
 ### Explorer Tools
-- [Oura](https://github.com/txpipe/oura) - pipeline that connects to the tip of a Cardano node
+- [Oura](https://github.com/txpipe/oura) - Pipeline that connects to the tip of a Cardano node.
 
 ## Crates
 
 ### Cardano Networking Protocols
-- [Cardano Rust Ouroboros Network](https://github.com/2nd-Layer/rust-cardano-ouroboros-network) - implementation of networking layer for the Ouroboros blockchain protocol.
-- [Pallas](https://github.com/txpipe/pallas) - building blocks for the Cardano blockchain ecosystem.
+- [Cardano Rust Ouroboros Network](https://github.com/2nd-Layer/rust-cardano-ouroboros-network) - Implementation of networking layer for the Ouroboros blockchain protocol.
+- [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
   - pallas-machines - framework for implementing state machines for Ouroboros network mini-protocols
   - pallas-multiplexer - multithreaded Ouroboros multiplexer implementation using mpsc channels
   - pallas-handshake - Ouroboros network handshake mini-protocol
@@ -60,9 +60,9 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 ### Cardano Consensus
 
 ### Cardano Ledger
-- [Pallas](https://github.com/txpipe/pallas) - building blocks for the Cardano blockchain ecosystem.
+- [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
   - pallas-alonzo - ledger primitives and cbor codec for the Alonzo era
-- [cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - library for serialization & deserialization of data structures used in Cardano's Haskell implementation
+- [cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - Library for serialization & deserialization of data structures used in Cardano's Haskell implementation.
 
 <!-- END CONTENT -->
 
