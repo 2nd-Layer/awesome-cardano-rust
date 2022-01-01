@@ -1,5 +1,5 @@
-name: lint
-on: 
+name: Lint Awesome List
+on:
   pull_request:
   push:
     branches:
