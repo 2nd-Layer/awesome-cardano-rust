@@ -70,10 +70,18 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-### dcSpark
-- [dcSpark on Twitter](https://twitter.com/dcspark_io/)
+### People
 - [Sebastien Guillemot on Twitter](https://twitter.com/SebastienGllmt)
 - [Nicolás Arqueros on Twitter](https://twitter.com/NicoArqueros)
+- [Andrew Westberg on Twitter](https://twitter.com/amw7)
+- [Mark Stopka on Twitter](https://twitter.com/LiberalMark)
+- [Nicolas Di Prima on Twitter](https://twitter.com/nicolasdiprima)
+
+### Projects
+- [Oura on Twitter](https://twitter.com/Oura_project)
+
+### Organizations
+- [dcSpark on Twitter](https://twitter.com/dcspark_io/)
 
 Who else should we be following!?
 
