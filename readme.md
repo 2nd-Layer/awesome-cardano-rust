@@ -46,25 +46,14 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 
 ## Crates
 
-### Cardano Networking Protocols
+### Networking Protocols
 - [Cardano Rust Ouroboros Network](https://github.com/2nd-Layer/rust-cardano-ouroboros-network) - Implementation of networking layer for the Ouroboros blockchain protocol.
-<!--lint ignore double-link -->
-- [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
-  - pallas-machines - framework for implementing state machines for Ouroboros network mini-protocols
-  - pallas-multiplexer - multithreaded Ouroboros multiplexer implementation using mpsc channels
-  - pallas-handshake - Ouroboros network handshake mini-protocol
-  - pallas-blockfetch - Ouroboros network blockfetch mini-protocol
-  - pallas-chainsync - Ouroboros network chainsync mini-protocol
-  - pallas-localstate - Ouroboros network local state query mini-protocol
-  - pallas-txsubmission - Ouroboros network txsubmission mini-protocol
 
-### Cardano Consensus
-
-### Cardano Ledger
-<!--lint ignore double-link -->
-- [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
-  - pallas-alonzo - ledger primitives and cbor codec for the Alonzo era
+### Data Serialization
 - [cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - Library for serialization & deserialization of data structures used in Cardano's Haskell implementation.
+
+### Multi-Purpose
+- [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
 
 <!-- END CONTENT -->
 
@@ -78,6 +67,7 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 - [Andrew Westberg on Twitter](https://twitter.com/amw7)
 - [Mark Stopka on Twitter](https://twitter.com/LiberalMark)
 - [Nicolas Di Prima on Twitter](https://twitter.com/nicolasdiprima)
+- [Santiago Carmuega on Twitter](https://twitter.com/santicarmuega)
 
 ### Projects
 - [Oura on Twitter](https://twitter.com/Oura_project)
