@@ -45,6 +45,9 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 ### Explorer Tools
 - [Oura](https://github.com/txpipe/oura) - Pipeline that connects to the tip of a Cardano node.
 
+### Node Implementations
+- [Jormungandr](https://github.com/input-output-hk/jormungandr) - Loose implementation of Ouroboros-like consensus protocol with (private) voting support.
+
 ## Crates
 
 ### Networking Protocols
