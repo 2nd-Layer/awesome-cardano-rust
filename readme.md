@@ -56,6 +56,9 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 ### Multi-Purpose
 - [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
 
+### Cryprographic Primitives
+- [Verifiable Random Function](https://github.com/input-output-hk/vrf) - Implementation of Cardano compatible VRF function.
+
 ## Notable Legacy
 - [Cardano Command Line Interface (CLI)](https://github.com/input-output-hk/cardano-cli) - The Cardano command line interface for Byron.
 - [IOG Cardano Rust Client Libraries](https://github.com/input-output-hk/rust-cardano) - Rust implementation of Cardano primitives, helpers, and related applications.
