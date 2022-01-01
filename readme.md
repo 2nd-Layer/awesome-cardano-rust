@@ -48,6 +48,7 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 
 ### Cardano Networking Protocols
 - [Cardano Rust Ouroboros Network](https://github.com/2nd-Layer/rust-cardano-ouroboros-network) - Implementation of networking layer for the Ouroboros blockchain protocol.
+<!--lint ignore double-link -->
 - [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
   - pallas-machines - framework for implementing state machines for Ouroboros network mini-protocols
   - pallas-multiplexer - multithreaded Ouroboros multiplexer implementation using mpsc channels
