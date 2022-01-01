@@ -62,12 +62,18 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 ### Cardano Ledger
 - [Pallas](https://github.com/txpipe/pallas) - building blocks for the Cardano blockchain ecosystem.
   - pallas-alonzo - ledger primitives and cbor codec for the Alonzo era
+- [cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - library for serialization & deserialization of data structures used in Cardano's Haskell implementation
 
 <!-- END CONTENT -->
 
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+
+### dcSpark
+- [dcSpark on Twitter](https://twitter.com/dcspark_io/)
+- [Sebastien Guillemot on Twitter](https://twitter.com/SebastienGllmt)
+- [Nicolás Arqueros on Twitter](https://twitter.com/NicoArqueros)
 
 Who else should we be following!?
 
