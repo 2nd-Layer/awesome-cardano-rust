@@ -56,6 +56,9 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 ### Data Serialization
 - [cardano-serialization-lib](https://github.com/Emurgo/cardano-serialization-lib) - Library for serialization & deserialization of data structures used in Cardano's Haskell implementation.
 
+### Wallet Primitives
+- [chain-wallet-libs](https://github.com/input-output-hk/chain-wallet-libs) - Chain Wallet libs is a set of libraries, to use to build application for Jörmungandr.
+
 ### Multi-Purpose
 - [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
 
