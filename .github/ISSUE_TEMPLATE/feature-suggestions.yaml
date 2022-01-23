@@ -1,0 +1,15 @@
+name: GitHub Actions Automation Suggestion
+description: Help us improve automation suggestions
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this suggestion form!
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your suggesiton
+      description: How and why is your suggestion useful to this community?
+      placeholder: I wish to see GitHub Action <xyz> here becuase it can help with transparency and accoutability
+    validations:
+      required: true
