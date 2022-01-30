@@ -53,6 +53,11 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 
 ## Crates
 
+### Off-chain data sources SDKs
+
+#### Blockfrost
+- [blockfrost-rust](https://github.com/blockfrost/blockfrost-rust) - Rust SDK for Blockfrost.io.
+
 ### Networking Protocols
 - [Cardano Rust Ouroboros Network](https://github.com/2nd-Layer/rust-cardano-ouroboros-network) - Implementation of networking layer for the Ouroboros blockchain protocol.
 
