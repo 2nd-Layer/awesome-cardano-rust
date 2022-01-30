@@ -33,6 +33,9 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 
 <!-- CONTENT -->
 
+## Other Awesome Cardano Lists
+- [Awesome Cardano Golang](https://github.com/2nd-Layer/awesome-cardano-golang)
+
 ## Companies & Teams
 
 - [dcSpark](https://dcspark.io/)
