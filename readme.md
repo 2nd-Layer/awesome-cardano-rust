@@ -25,6 +25,7 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 
 ## Contents
 
+- [Other Awesome Cardano Lists](other-awesomec-ardano-lists)
 - [Companies & Teams](#companies--teams)
 - [Tools](#tools)
 - [Crates](#crates)
@@ -67,7 +68,7 @@ Cardano intends to be a Social and Financial Operating System. Rust is a multi-p
 
 ### Wallet Primitives
 - [chain-wallet-libs](https://github.com/input-output-hk/chain-wallet-libs) - Chain Wallet libs is a set of libraries, to use to build application for Jörmungandr.
-- [Mithril - Proof of Concept (POC)](https://github.com/input-output-hk/mithril) - Stake-based threshold multi-signatures protocol
+- [Mithril - Proof of Concept (POC)](https://github.com/input-output-hk/mithril) - Stake-based threshold multi-signatures protocol.
 
 ### Multi-Purpose
 - [Pallas](https://github.com/txpipe/pallas) - Building blocks for the Cardano blockchain ecosystem.
